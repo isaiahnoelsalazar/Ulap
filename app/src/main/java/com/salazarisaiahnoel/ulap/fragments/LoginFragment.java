@@ -3,7 +3,6 @@ package com.salazarisaiahnoel.ulap.fragments;
 import static android.content.Context.MODE_PRIVATE;
 import static com.salazarisaiahnoel.ulap.MainActivity.registerFragment;
 
-import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 
@@ -11,7 +10,6 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import android.os.Handler;
 import android.text.SpannableString;
 import android.text.style.UnderlineSpan;
 import android.view.LayoutInflater;
@@ -22,7 +20,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.github.saiaaaaaaa.cod.normal.EasySQL;
+import com.github.saiaaaaaaa.cod.EasySQL;
 import com.salazarisaiahnoel.ulap.R;
 
 import java.util.ArrayList;

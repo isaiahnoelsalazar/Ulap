@@ -1,7 +1,6 @@
 package com.salazarisaiahnoel.ulap.fragments;
 
 import static com.salazarisaiahnoel.ulap.MainActivity.loginFragment;
-import static com.salazarisaiahnoel.ulap.MainActivity.registerFragment;
 
 import android.os.Bundle;
 
@@ -19,7 +18,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.github.saiaaaaaaa.cod.normal.EasySQL;
+import com.github.saiaaaaaaa.cod.EasySQL;
 import com.salazarisaiahnoel.ulap.R;
 
 import java.util.ArrayList;
