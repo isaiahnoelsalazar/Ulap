@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboard_tab_home"
+        android:title="Home"
+        android:icon="@drawable/round_home_24"/>
+    <item android:id="@+id/dashboard_tab_inbox"
+        android:title="Inbox"
+        android:icon="@drawable/round_mail_outline_24"/>
+    <item android:id="@+id/dashboard_tab_transactions"
+        android:title="Transactions"
+        android:icon="@drawable/round_receipt_long_24"/>
+    <item android:id="@+id/dashboard_tab_profile"
+        android:title="You"
+        android:icon="@drawable/outline_account_circle_24"/>
+</menu>
