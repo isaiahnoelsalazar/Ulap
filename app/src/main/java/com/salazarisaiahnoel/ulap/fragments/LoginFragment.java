@@ -20,7 +20,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.github.saiaaaaaaa.cod.EasySQL;
+import com.github.isaiahnoelsalazar.simplefunctions.EasySQL;
 import com.salazarisaiahnoel.ulap.R;
 
 import java.util.ArrayList;
